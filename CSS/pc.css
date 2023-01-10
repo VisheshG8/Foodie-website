@@ -1,0 +1,52 @@
+*{
+    margin: 1px;
+    padding: 1px;
+}
+
+/* Navigation
+#navbar{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#navbar ul li a{
+    font-size: 1rem;
+    padding: 1px;
+}
+ */
+
+/* home */
+/* #home{
+
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+/* services */
+#services{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+
+} 
+
+/* clients */
+#client-section {
+    display: flex;
+    height: 400px;
+    justify-content: center;
+}
+
+#clients div img{
+    height: 21vh;
+    margin: 10px;
+    padding: 15px;
+}
+
+/* contact */
+
+footer{
+    position: relative;
+    width: 100vw;
+}
